@@ -1,0 +1,1 @@
+This repository contains a simple Go program that demonstrates a common error: forgetting to import the necessary package.  The `bug.go` file shows the error, while `bugSolution.go` provides the corrected code. This example highlights the importance of proper package management in Go.
